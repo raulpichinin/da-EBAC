@@ -1,5 +1,3 @@
-import pandas as pd
-import seaborn as sns
 
 df_gasolina = pd.read_csv('gasolina.csv')
 
