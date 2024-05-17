@@ -7,4 +7,4 @@ with sns.axes_style ('whitegrid'):
 
 
 fig = grafico.get_figure()
-fig.savefig('gasolina.png', dpi=300)
+fig.savefig('gasolina.png', dpi=200)
